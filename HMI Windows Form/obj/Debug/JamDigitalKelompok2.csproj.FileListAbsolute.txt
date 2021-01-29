@@ -1,0 +1,18 @@
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\JamDigitalKelompok2.csprojAssemblyReference.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Forma1.resources
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\JamDigitalKelompok2.csproj.GenerateResource.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\JamDigitalKelompok2.csproj.CoreCompileInputs.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\bin\Debug\ReadSrial_Port(NEW).exe
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\bin\Debug\ReadSrial_Port(NEW).pdb
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\JamDigitalKelompok2.csprojAssemblyReference.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\ReadSrial_Port_NEW_.Forma1.resources
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\JamDigitalKelompok2.csproj.GenerateResource.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\JamDigitalKelompok2.csproj.CoreCompileInputs.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\ReadSrial_Port(NEW).exe
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Debug\ReadSrial_Port(NEW).pdb

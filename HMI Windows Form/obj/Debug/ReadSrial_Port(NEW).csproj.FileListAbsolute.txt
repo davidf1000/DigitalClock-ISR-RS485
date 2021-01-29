@@ -1,0 +1,18 @@
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csprojAssemblyReference.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Form1.resources
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+E:\Test-Visual\ReadSrial_Port\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).exe
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\bin\Debug\ReadSrial_Port(NEW).pdb
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csprojAssemblyReference.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Properties.Resources.resources
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.GenerateResource.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).csproj.CoreCompileInputs.cache
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).exe
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port(NEW).pdb
+C:\Users\David Fauzi\Downloads\ReadSrial_Port(NEW)\ReadSrial_Port(NEW)\obj\Debug\ReadSrial_Port_NEW_.Forma1.resources

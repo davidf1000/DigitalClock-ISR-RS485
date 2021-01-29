@@ -1,0 +1,9 @@
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.csprojAssemblyReference.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\ReadSrial_Port_NEW_.Forma1.resources
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.csproj.GenerateResource.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.csproj.CoreCompileInputs.cache
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\bin\Release\JamDigitalKelompok2.exe
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\bin\Release\JamDigitalKelompok2.pdb
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.Properties.Resources.resources
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.exe
+D:\CODE\DigitalClock-ISR-RS485\HMI Windows Form\obj\Release\JamDigitalKelompok2.pdb
