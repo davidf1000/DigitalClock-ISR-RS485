@@ -143,5 +143,16 @@ namespace ReadSrial_Port_NEW_
         {
 
         }
+
+        private void buttonSync_Click(object sender, EventArgs e)
+        {
+            string time = DateTime.Now.ToString("hh:mm:ss");
+            serialPort1.Write(time);
+            textHour.Clear();
+            textMinute.Clear();
+            textSecond.Clear();
+            labelConfirm.ForeColor = System.Drawing.Color.Green;
+            labelConfirm.Text = "Synced with computer's local time !";
+        }
     }
 }

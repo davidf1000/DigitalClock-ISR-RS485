@@ -46,6 +46,7 @@
             this.textSecond = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.buttonSync = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBOX_Show_Read
@@ -65,7 +66,7 @@
             // 
             this.BTN_Send.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BTN_Send.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.BTN_Send.Location = new System.Drawing.Point(393, 283);
+            this.BTN_Send.Location = new System.Drawing.Point(393, 274);
             this.BTN_Send.Name = "BTN_Send";
             this.BTN_Send.Size = new System.Drawing.Size(121, 39);
             this.BTN_Send.TabIndex = 2;
@@ -117,7 +118,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.labelConfirm.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.5F);
             this.labelConfirm.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.labelConfirm.Location = new System.Drawing.Point(12, 384);
+            this.labelConfirm.Location = new System.Drawing.Point(12, 409);
             this.labelConfirm.Name = "labelConfirm";
             this.labelConfirm.Size = new System.Drawing.Size(518, 23);
             this.labelConfirm.TabIndex = 7;
@@ -174,7 +175,7 @@
             // 
             this.textHour.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.textHour.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.5F);
-            this.textHour.Location = new System.Drawing.Point(71, 288);
+            this.textHour.Location = new System.Drawing.Point(71, 279);
             this.textHour.Name = "textHour";
             this.textHour.Size = new System.Drawing.Size(58, 34);
             this.textHour.TabIndex = 12;
@@ -185,7 +186,7 @@
             // 
             this.textMinute.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.textMinute.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.5F);
-            this.textMinute.Location = new System.Drawing.Point(163, 288);
+            this.textMinute.Location = new System.Drawing.Point(163, 279);
             this.textMinute.Name = "textMinute";
             this.textMinute.Size = new System.Drawing.Size(58, 34);
             this.textMinute.TabIndex = 13;
@@ -196,7 +197,7 @@
             // 
             this.textSecond.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.textSecond.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.5F);
-            this.textSecond.Location = new System.Drawing.Point(255, 288);
+            this.textSecond.Location = new System.Drawing.Point(255, 279);
             this.textSecond.Name = "textSecond";
             this.textSecond.Size = new System.Drawing.Size(58, 34);
             this.textSecond.TabIndex = 14;
@@ -208,7 +209,7 @@
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.label5.Location = new System.Drawing.Point(135, 288);
+            this.label5.Location = new System.Drawing.Point(135, 279);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(22, 31);
             this.label5.TabIndex = 15;
@@ -219,17 +220,30 @@
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.label6.Location = new System.Drawing.Point(227, 288);
+            this.label6.Location = new System.Drawing.Point(227, 279);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(22, 31);
             this.label6.TabIndex = 16;
             this.label6.Text = ":";
+            // 
+            // buttonSync
+            // 
+            this.buttonSync.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonSync.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.buttonSync.Location = new System.Drawing.Point(216, 356);
+            this.buttonSync.Name = "buttonSync";
+            this.buttonSync.Size = new System.Drawing.Size(121, 39);
+            this.buttonSync.TabIndex = 17;
+            this.buttonSync.Text = "Sync Time";
+            this.buttonSync.UseVisualStyleBackColor = true;
+            this.buttonSync.Click += new System.EventHandler(this.buttonSync_Click);
             // 
             // Forma1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(542, 518);
+            this.Controls.Add(this.buttonSync);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textSecond);
@@ -272,6 +286,7 @@
         private System.Windows.Forms.TextBox textSecond;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button buttonSync;
     }
 }
 

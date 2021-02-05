@@ -33,7 +33,7 @@ bool mode = 1; // 1 = transmit , 0 = receive
 bool buttonState1 = 0;
 bool buttonState2 = 0;
 bool buttonState3 = 0;
-bool lcdToggle = 1;
+bool toggleLcd = 1;
 bool toggle7Seg = 1;
 //Serial
 String readSerial;
@@ -167,11 +167,11 @@ void settingClock(void)
   buttonState3 = digitalRead(buttonPin3);
   if (!buttonState2)
   {
-    if (lcdToggle)
+    if (toggleLcd)
       lcd.noBacklight();
     else
       lcd.backlight();
-    lcdToggle = !lcdToggle;
+    toggleLcd = !toggleLcd;
     delay(500);
   }
   if (!buttonState3)
