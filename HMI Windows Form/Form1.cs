@@ -129,8 +129,8 @@ namespace ReadSrial_Port_NEW_
             foreach (string n in strPortName)
             {
                 comboBox_Port.Items.Add(n);
-            }
-            comboBox_Port.SelectedIndex = 0;
+            }      
+            if (strPortName.Length>0)comboBox_Port.SelectedIndex = 0;
             labelConfirm.Text = "Press Connect to read current time";
         }
 
